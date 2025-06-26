@@ -1,10 +1,10 @@
 <p align="center">
   <img src="public/icons/icon-192x192.png" alt="MoeMail Logo" width="100" height="100">
-  <h1 align="center">MoeMail</h1>
+  <h1 align="center">MoeMail </h1>
 </p>
 
 <p align="center">
-  一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 1
+  一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉
 </p>
 
 <p align="center">
