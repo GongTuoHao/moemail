@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 111
+  一个基于 NextJS + Cloudflare 技术栈构建的可爱临时邮箱服务🎉 1
 </p>
 
 <p align="center">
